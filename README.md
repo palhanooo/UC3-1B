@@ -13,6 +13,7 @@ boolean ( o que é, como se aplica)
 estruturas condicionais(if/else,swicth case)
 arrays( o que é, exemplo de métodos)
 funções( o que é, exemplos)
+links das atividades no codepen codigos ,apresentação, videos
 
 
 ## Atividades desenvolvidas
